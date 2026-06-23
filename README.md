@@ -1,36 +1,26 @@
-<!--
-**HuiXiaHeYu/HuiXiaHeYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm hxhy 👋
 
-Here are some ideas to get you started:
+**全栈工程师 · Python / TypeScript · LLM x Automation**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+用 LLM 和自动化代替重复劳动。
 
-## Hi,I'm hxhy
+- 🤖 LLM 应用与 AI Agent 编排
+- 👁️ Computer Vision & Deep Learning
+- ⚡ 自动化流水线、爬虫与工具链构建
+- 🛠️ 桌面应用 / 浏览器扩展 / 全栈开发
 
-TypeScript enthusiast, Python user, Deep Learning & Vue beginner
-
-[🌐 Website](https://HuiXiaHeYu.github.io) · [📚 Blog](https://HuiXiaHeYu.github.io/blog/) · [📇 Contact](mailto:1912452912@qq.com)
-
+---
 
 ### Tech stack
 
-<picture><img src="https://skillicons.dev/icons?i=js,pytorch,linux,vue,latex"></picture>
+<picture><img src="https://skillicons.dev/icons?i=py,ts,js,pytorch,linux,vue,react,fastapi,qt,docker,git,githubactions"></picture>
 
-### Tools I use
+### Contact
 
-<picture><img src="https://skillicons.dev/icons?i=vscode,anaconda,ubuntu,qt,git,githubactions,docker,pnpm"></picture>
+📇 [QQ: 1912452912](https://wpa.qq.com/msgrd?v=3&uin=1912452912&site=qq&menu=yes)
 
-## 请我喝杯咖啡
+### 请我喝杯咖啡
 
-<p align = "left">    
-<img  src="./images/Coffee-QR-code.png" width="200" />
+<p align="left">
+  <img src="./images/Coffee-QR-code.png" width="200" />
 </p>
-
