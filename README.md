@@ -1,6 +1,6 @@
-## 你好，我是 hxhy 👋
+## Hi, I'm hxhy 👋
 
-**全栈工程师 · Python / TypeScript · LLM x Automation**
+**Python / TypeScript · LLM x Automation**
 
 ---
 
