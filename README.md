@@ -1,4 +1,4 @@
-## Hi, I'm hxhy 👋
+## 你好，我是 hxhy 👋
 
 **Python / TypeScript · LLM x Automation**
 
